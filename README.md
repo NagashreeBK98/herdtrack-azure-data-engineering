@@ -90,7 +90,9 @@ HerdTrack NextGen Analytics represents the **next evolution**, shifting from raw
 - Geographic identification of high-risk regions
 - Milk production and productivity insights
 
-Dashboard exports are available in the `dashboards/` directory.
+
+🔗 **Dashboard Access:**
+- 📄 [Power BI Dashboard (PDF)](dashboards/HerdTrack_PowerBI_Dashboard.pdf)
 
 ---
 
