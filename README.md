@@ -5,7 +5,7 @@
 ## 🏗️ Architecture Overview
 The solution follows a modern **Bronze–Silver–Gold** data architecture on Microsoft Azure.
 
-
+<img width="1354" height="607" alt="herdtrack_architecture" src="https://github.com/user-attachments/assets/9de189ab-3a97-4c8e-9385-577a6372b651" />
 
 Detailed architecture diagrams are available in the `architecture/` directory.
 
