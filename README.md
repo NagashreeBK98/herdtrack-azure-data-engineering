@@ -92,7 +92,7 @@ HerdTrack NextGen Analytics represents the **next evolution**, shifting from raw
 
 
 🔗 **Dashboard Access:**
-- 📄 [Power BI Dashboard (PDF)](dashboards/HerdTrack_PowerBI_Dashboard.pdf)
+- 📄 [Power BI Dashboard (PDF)](dashboards/herdtrack_powerbi.pdf)
 
 ---
 
