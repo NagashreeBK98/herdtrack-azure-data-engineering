@@ -52,8 +52,7 @@ Cloud-native architecture allows seamless expansion across farms, regions, and s
 ## 🏗️ Architecture Overview
 The solution follows a modern **Bronze–Silver–Gold** data architecture on Microsoft Azure.
 
-
-[HerdTrack Azure Architecture](architecture/herdtrack_architecture.png)
+<img width="1354" height="607" alt="herdtrack_architecture" src="https://github.com/user-attachments/assets/4e54f536-e957-4cc7-9a54-20957e4e332c" />
 
 *End-to-end Azure data engineering architecture showcasing ingestion, processing, serving, and analytics layers.*
 
