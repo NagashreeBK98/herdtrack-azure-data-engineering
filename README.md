@@ -2,20 +2,17 @@
 ### Enterprise End-to-End Data Engineering & Power BI Analytics Platform for Smart Cattle Farming
 
 ---
-## 🏗️ Architecture Overview
-The solution follows a modern **Bronze–Silver–Gold** data architecture on Microsoft Azure.
-
-<img width="1354" height="607" alt="herdtrack_architecture" src="https://github.com/user-attachments/assets/9de189ab-3a97-4c8e-9385-577a6372b651" />
-
-Detailed architecture diagrams are available in the `architecture/` directory.
-
----
-
 ## 📌 Executive Overview
 HerdTrack NextGen Analytics is a cloud-native analytics platform that transforms traditional cattle farming into a **proactive, data-driven operation**.  
 By integrating **wearable sensor data, pregnancy tracking, environmental signals, and historical datasets**, the platform delivers **real-time insights and business intelligence** through a modern Azure-based data architecture and Power BI dashboards.
 
 This project demonstrates a **complete, production-aligned data engineering lifecycle**, from ingestion to analytics, designed to reduce manual effort, improve animal welfare, and optimize farm operations.
+
+---
+## 🏗️ Architecture Overview
+The solution follows a modern **Bronze–Silver–Gold** data architecture on Microsoft Azure.
+
+<img width="1354" height="607" alt="herdtrack_architecture" src="https://github.com/user-attachments/assets/9de189ab-3a97-4c8e-9385-577a6372b651" />
 
 ---
 
