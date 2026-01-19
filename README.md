@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="path-to-logo.png" width="200" alt="HerdTrack NextGen Analytics Logo"/>
+</p>
+
+
 # 🐄 HerdTrack NextGen Analytics  
 ### Enterprise End-to-End Data Engineering & Power BI Analytics Platform for Smart Cattle Farming
 
