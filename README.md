@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-to-logo.png" width="200" alt="HerdTrack NextGen Analytics Logo"/>
+  <img src="herdtrack_project_logo.png" width="140" alt="HerdTrack NextGen Analytics Logo"/>
 </p>
 
 
